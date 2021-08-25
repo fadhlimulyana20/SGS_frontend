@@ -1,0 +1,4 @@
+.bg-sgs {
+    /* background: rgb(255,0,67); */
+    background: linear-gradient(120deg, rgba(255,0,67,1) 0%, rgba(0,114,255,1) 100%);
+}
